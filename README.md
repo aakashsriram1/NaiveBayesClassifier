@@ -13,8 +13,3 @@ This project implements a Naive Bayes Classifier in Python from scratch to predi
 - `train_naive_bayes`: Calculates class-specific statistics for training.
 - `predict_naive_bayes`: Predicts the outcome for test data using Gaussian distributions.
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/naive-bayes-basketball.git
-   cd naive-bayes-basketball
